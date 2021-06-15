@@ -9,7 +9,9 @@
 - Tools & Library: Python Tkinter
 - Front End: Python
 - Back End: Python
+
 # Back-End Server
 - Databas: MySQL
-# How its Look
+
+# How its Looks
 ![home](https://user-images.githubusercontent.com/47664796/121986882-01ecc180-cdb5-11eb-95fd-789e4bc05181.PNG)
